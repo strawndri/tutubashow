@@ -1,183 +1,177 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "*｡･ﾟ✫*.Andrieli's channel✫*ﾟ･ﾟ｡.★.*",
+      "link": "https://www.youtube.com/channel/UCZ43XY_EerIOG7PLUL816JA?view_as=subscriber",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "",
+        "url": "https://www.youtube.com/channel/UCZ43XY_EerIOG7PLUL816JA?view_as=subscriber"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Wₑₗ꜀ₒₘₑ ₜₒ Tᵤₜᵤᵦₐꭉₗᵢₓ",
+          "url": "https://www.youtube.com/watch?v=KXom2J5qry4"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "grito",
+          "url": "https://www.youtube.com/watch?v=zAK4hr9JK3g"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "оцелот",
+          "url": "https://www.youtube.com/watch?v=u2qI9TnYfXA"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "podushka",
+          "url": "https://www.youtube.com/watch?v=mt3GzvJRCJs"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "e ta pronto o sorvetinho",
+          "url": "https://www.youtube.com/watch?v=tpwQIipepXk"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Leptospirose",
+          "url": "https://www.youtube.com/watch?v=UjwVGcR0iNU"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "P i k a c h u v a p o r w a v e e d r o g a s p o n t o c o m",
+          "url": "https://www.youtube.com/watch?v=iWJe1ZhN8tc"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Shampoo em formato de abelha",
+          "url": "https://www.youtube.com/watch?v=crxRg6mjQxI"
+        },
+        {
+          "titulo": "Tedio.mp4",
+          "url": "https://www.youtube.com/watch?v=3k5p3wl6y9Y"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "✫*ﾟ･ﾟ｡.Recommended - Parlineo✫*ﾟ･ﾟ｡.",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "",
+        "url": "https://www.youtube.com/channel/UCR3OluK_3YiCIZGmVZwWx3g"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Fim do mundo 2020",
+          "url": "https://www.youtube.com/watch?v=hd0OPmQ32Ic"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "henrique pictures filme ",
+          "url": "https://www.youtube.com/watch?v=4EaM6VzyXBA"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Shrek e montanhas",
+          "url": "https://www.youtube.com/watch?v=yVui_VjwYas"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Teletubos e Cidades",
+          "url": "https://www.youtube.com/watch?v=nDCzJ7ZdzeM"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "automóveis",
+          "url": "https://www.youtube.com/watch?v=_uArJzoJP1w"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "✫*ﾟ･ﾟ｡.My little playlist✫*ﾟ･ﾟ｡.★.*",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Ariel Pink - Lipstick",
+          "url": "https://www.youtube.com/watch?v=zhdgGWIqL4U"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Melanie Martinez - Strawberry Shortcake",
+          "url": "https://www.youtube.com/watch?v=0EQ-NNM8l64"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Cannons - Fire for you",
+          "url": "https://www.youtube.com/watch?v=Azq2Bmz-8ks"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "MGMT - When you die",
+          "url": "https://www.youtube.com/watch?v=x1BjOBnJMHU&list=PLZX81kt7YMzjNZUzF_zF0hPuCRt6LKXUt&index=109&t=0s"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "MGMT - Little Drak Age",
+          "url": "https://www.youtube.com/watch?v=rtL5oMyBHPs"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Danger Incorporated - Forever",
+          "url": "https://www.youtube.com/watch?v=3DSgOdePle8"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Boney M - Daddy Cool",
+          "url": "https://www.youtube.com/watch?v=otna9Pe3jWg"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Bee Gees - How Deep is Your Love",
+          "url": "https://www.youtube.com/watch?v=XpqqjU7u5Yc"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "✫*ﾟ･ﾟ｡.✫*GAMESﾟ･ﾟ｡.★.*",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Splatoon",
+          "url": "https://www.youtube.com/watch?v=rplnwgPIfC4"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Fran Bow",
+          "url": "https://www.youtube.com/watch?v=cnfXW4JRLpc"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Animal Crossing New Leaf",
+          "url": "https://www.youtube.com/watch?v=M_UmQ0S1C10"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Habbo Hotel",
+          "url": "https://www.youtube.com/watch?v=bosfP5sFz3s"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "✫*ﾟ･ﾟ｡.✫*I like it･ﾟ｡.★.*",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Hello Kitty",
+          "url": "https://www.youtube.com/watch?v=1A_V_c5h-LU&t=8s"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Sailor Moon",
+          "url": "https://www.youtube.com/watch?v=kg-McDlm_98"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Saiki Kusuo",
+          "url": "https://www.youtube.com/watch?v=1Hb52JzWdfY&list=PLk-EPHbmQ6HE1G8_xZ-MeJYT9MhyXU70x&index=1"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Anne Frank",
+          "url": "https://www.youtube.com/watch?v=iIXx0rdRfPk&list=PLDwwb2V397Q6192UeDFpcNuSoK8uS1cgz&index=17&t=0s"
         }
       ]
     }

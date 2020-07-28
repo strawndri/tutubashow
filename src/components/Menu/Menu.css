@@ -1,5 +1,5 @@
 .Logo {
-    max-width: 168px;
+    max-width: 270px;
   }
   @media (max-width: 800px) {
     .Logo {
@@ -49,7 +49,7 @@
     padding: 16px 24px;
     font-style: normal;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 16000px;
     outline: none;
     border-radius: 5px;
     text-decoration: none;

@@ -16,12 +16,22 @@ const Container = styled.ul`
     height: 30px;
     transform: initial;
     &:before {
-      font-size: 30px;
+      font-size: 50px;
     }
+    
   }
+  /*seta da esquerda*/
+  .slick-prev::before {
+    content: "⇦";
+}
+
+/*seta da direita*/
+.slick-next::before {
+    content: "⇨";
+}
   
   .slick-prev {
-    left: 0;
+    left: 3px;
   }
   .slick-next {
     right: 16px;

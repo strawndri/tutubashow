@@ -10,7 +10,7 @@
       },
       "videos": [
         {
-          "titulo": "Wₑₗ꜀ₒₘₑ ₜₒ Tᵤₜᵤᵦₐꭉₗᵢₓ",
+          "titulo": "𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐓𝐮𝐭𝐮𝐛𝐚𝐟𝐥𝐢𝐱",
           "url": "https://www.youtube.com/watch?v=KXom2J5qry4"
         },
         {
@@ -104,6 +104,7 @@
       ]
     },
     {
+      "cor":"#9cd33b",
       "videos": [
         {
           "titulo": "MGMT - Little Drak Age",
@@ -125,7 +126,7 @@
     },
     {
       "titulo": "✫*ﾟ･ﾟ｡.✫*GAMESﾟ･ﾟ｡.★.*",
-      "cor": "red",
+      "cor": "#d0de41",
       "link_extra": {
         "text": "",
         "url": ""

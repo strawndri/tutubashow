@@ -22,12 +22,12 @@ const Container = styled.ul`
   }
   /*seta da esquerda*/
   .slick-prev::before {
-    content: "⇦";
+    content: "⮜";
 }
 
 /*seta da direita*/
 .slick-next::before {
-    content: "⇨";
+    content: "⮞";
 }
   
   .slick-prev {

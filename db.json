@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+        "id": 1,
+        "nome": "Andrieli's channel",
+        "descricao": "Canal da Andrieli",
+        "cor": "#ff4fb0"
+        },
+        {
+        "id": 2,
+        "nome": "Recommended - Parlineo",
+        "descricao": "Canal do Paulo",
+        "cor": "#ff4fb0"
+        }
+    ]
+}

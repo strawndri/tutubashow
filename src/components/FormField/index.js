@@ -1,8 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import styled, {css}from 'styled-components';
+import styled, { css } from 'styled-components';
 
-const FormFieldWrapper= styled.div `
+const FormFieldWrapper = styled.div`
   position: relative;
   textarea {
     min-height: 150px;
@@ -12,8 +12,9 @@ const FormFieldWrapper= styled.div `
   }
 `;
 
-const Label= styled.label ``;
-Label.Text= styled.span`
+const Label = styled.label``;
+
+Label.Text = styled.span`
 color: #545454;
   height: 57px;
   position: absolute; 
@@ -31,8 +32,7 @@ color: #545454;
   transition: .1s ease-in-out;
 `;
 
-
-const Input= styled.input `
+const Input = styled.input`
  background: #d6befd; /*roxo*/
   color: #545454; /*cinza*/
   display: block;
@@ -60,49 +60,47 @@ const Input= styled.input `
   transform: scale(.6) translateY(-10px);
 }
 
-${({hasValue}) => hasValue  && css`
+${({ hasValue }) => hasValue && css`
   &:not([type="color"]) + span {
   transform: scale(.6) translateY(-10px);
-}
- `}
+      }
+     `}
 `;
 
 function FormField({
   label, type, name, value, onChange,
 }) {
   const fieldId = `id_${name}`;
-  const isTextarea = type === "textarea";
-  const tag = isTextarea ? "textarea" : "input";
-
-  const hasValue = Boolean( value.length);
+  const isTextarea = type === 'textarea';
+  const tag = isTextarea ? 'textarea' : 'input';
+  const hasValue = Boolean(value.length);
 
   return (
     <FormFieldWrapper>
       <Label
-      htmlFor={fieldId}
-    >
+        htmlFor={fieldId}>
         <Input
           as={tag}
           id={fieldId}
           type={type}
           value={value}
           name={name}
-          hasValue = {hasValue}
+          hasValue={hasValue}
           onChange={onChange}
         />
         <Label.Text>
-      {label}
-        :
-      </Label.Text>
+          {label}
+          :
+        </Label.Text>
       </Label>
     </FormFieldWrapper>
   );
 }
 
 FormField.defaultProps = {
-type: 'text',
-value: '',
-onChange: () => {},
+  type: 'text',
+  value: '', 
+  onChange: () => {},
 };
 
 FormField.propTypes = {

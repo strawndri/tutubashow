@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
 import Button from '../../../components/Button';
-
+import useForm from '../../../hooks/useForm';
 function CadastroCategoria() {
   const valoresIniciais = {
     nome: '',
@@ -11,22 +11,10 @@ function CadastroCategoria() {
     cor: '',
   };
 
+  const {handleChange, values, clearForm} = useForm(valoresIniciais)
+
   const [categorias, setCategorias] = useState([]);
-  const [values, setValues] = useState(valoresIniciais);
 
-  function setValue(chave, valor) {
-    setValues({
-      ...values,
-      [chave]: valor, // nome: 'valor'
-    });
-  }
-
-  function handleChange(infosDoEvento) {
-    setValue(
-      infosDoEvento.target.getAttribute('name'),
-      infosDoEvento.target.value,
-    );
-  }
 
   useEffect(() => {
     const URL = window.location.hostname.includes('localhost')
@@ -40,23 +28,7 @@ function CadastroCategoria() {
         ]);
       });
 
-    /* setTimeout(() => {
-      setCategorias([
-        ...categorias,
-        {
-          id: 1,
-          nome: 'Andrieli channel',
-          descricao: 'Canal da Andrieli',
-          cor: '#ff4fb0',
-        },
-        {
-          id: 2,
-          nome: 'Recommended - Parlineo',
-          descricao: 'Canal do Paulo',
-          cor: '#ff4fb0',
-        },
-      ]);
-    }, 4 * 1000); */
+
   }, []);
 
   return (
@@ -74,7 +46,7 @@ function CadastroCategoria() {
           values,
         ]);
 
-        setValues(valoresIniciais);
+        clearForm();
       }}
       >
 
@@ -115,8 +87,8 @@ function CadastroCategoria() {
 
       <ul>
         {categorias.map((categoria) => (
-          <li key={`${categoria.nome}`}>
-            {categoria.nome}
+          <li key={`${categoria.titulo}`}>
+            {categoria.titulo}
           </li>
         ))}
       </ul>

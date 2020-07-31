@@ -1,16 +1,102 @@
 {
     "categorias": [
-        {
+      {
         "id": 1,
-        "nome": "Andrieli's channel",
-        "descricao": "Canal da Andrieli",
-        "cor": "#ff4fb0"
-        },
-        {
-        "id": 2,
-        "nome": "Recommended - Parlineo",
-        "descricao": "Canal do Paulo",
-        "cor": "#ff4fb0"
+        "titulo": "Andrieli's Channel",
+        "cor": "#ff4fb0",
+        "link_extra": {
+          "text": "",
+          "url": "https://www.youtube.com/channel/UCZ43XY_EerIOG7PLUL816JA?view_as=subscriber"
         }
+      },
+      {
+        "id": 2,
+        "titulo": "Recommended: Parlineo",
+        "cor": "#00C86F",
+        "link_extra": {
+          "text": "",
+          "url": "https://www.youtube.com/channel/UCR3OluK_3YiCIZGmVZwWx3g"
+        }
+      }
+     ],
+    "videos": [ 
+      {
+        "id": 1,
+        "categoriaId": 1,
+        "titulo": "grito",
+        "url": "https://www.youtube.com/watch?v=zAK4hr9JK3g"
+      },
+      {
+        "id": 2,
+        "categoriaId": 1,
+        "titulo": "оцелот",
+        "url": "https://www.youtube.com/watch?v=u2qI9TnYfXA"
+      },
+      {
+        "id": 3,
+        "categoriaId": 1,
+        "titulo": "podushka",
+        "url": "https://www.youtube.com/watch?v=mt3GzvJRCJs"
+      },
+      {
+        "id": 4,
+        "categoriaId": 1,
+        "titulo": "e ta pronto o sorvetinho",
+        "url": "https://www.youtube.com/watch?v=tpwQIipepXk"
+      },
+      {
+        "id": 5,
+        "categoriaId": 1,
+        "titulo": "Leptospirose",
+        "url": "https://www.youtube.com/watch?v=UjwVGcR0iNU"
+      },
+      {
+        "id": 6,
+        "categoriaId": 1,
+        "titulo":"P i k a c h u v a p o r w a v e e d r o g a s p o n t o c o m",
+        "url": "https://www.youtube.com/watch?v=iWJe1ZhN8tc"
+      },
+      {
+        "id": 7,
+        "categoriaId": 1,
+        "titulo":"Shampoo em formato de abelha",
+        "url": "https://www.youtube.com/watch?v=crxRg6mjQxI"
+      },
+      {
+        "id": 8,
+        "categoriaId": 1,
+        "titulo":"Tedio.mp4",
+        "url": "https://www.youtube.com/watch?v=3k5p3wl6y9Y"
+      },
+      {
+        "id": 1,
+        "categoriaId": 2,
+        "titulo":"Fim do mundo 2020",
+        "url": "https://www.youtube.com/watch?v=hd0OPmQ32Ic"
+      },
+      {
+        "id": 2,
+        "categoriaId": 2,
+        "titulo":"henrique pictures filme",
+        "url": "https://www.youtube.com/watch?v=4EaM6VzyXBA"
+      },
+      {
+        "id": 3,
+        "categoriaId": 2,
+        "titulo":"Shrek e montanhas",
+        "url": "https://www.youtube.com/watch?v=yVui_VjwYas"
+      },
+      {
+        "id": 4,
+        "categoriaId": 2,
+        "titulo":"Teletubos e Cidades",
+        "url": "https://www.youtube.com/watch?v=nDCzJ7ZdzeM"
+      },
+      {
+        "id": 5,
+        "categoriaId": 2,
+        "titulo":"automóveis",
+        "url": "https://www.youtube.com/watch?v=_uArJzoJP1w"
+      }
     ]
-}
+  }

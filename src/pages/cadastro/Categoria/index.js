@@ -29,8 +29,34 @@ function CadastroCategoria() {
   }
 
   useEffect(() => {
-    fetch('')
-  });
+    console.log('aiiiii');
+    const URL = 'http://localhost:8080/categorias';
+    fetch(URL)
+      .then(async (respostaDoServidor) => {
+        const resposta = await respostaDoServidor.json();
+        setCategorias([
+          ...resposta,
+        ]);
+      });
+
+    /* setTimeout(() => {
+      setCategorias([
+        ...categorias,
+        {
+          id: 1,
+          nome: 'Andrieli channel',
+          descricao: 'Canal da Andrieli',
+          cor: '#ff4fb0',
+        },
+        {
+          id: 2,
+          nome: 'Recommended - Parlineo',
+          descricao: 'Canal do Paulo',
+          cor: '#ff4fb0',
+        },
+      ]);
+    }, 4 * 1000); */
+  }, []);
 
   return (
     <PageDefault>
@@ -80,10 +106,10 @@ function CadastroCategoria() {
         </Button>
       </form>
 
-      {categorias.legth === 0 && (
-        <div>
-          Loading...
-        </div>
+      {categorias.length === 0 && (
+      <div>
+        Loading...
+      </div>
       )}
 
       <ul>

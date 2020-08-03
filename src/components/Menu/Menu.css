@@ -56,9 +56,15 @@
     display: inline-block;
     transition: opacity .3s;
   }
-  .ButtonLink:hover,
-  .ButtonLink:focus {
+  .ButtonLink:focus,
+  .ButtonLink.shrink.color:hover{
     opacity: .5;
+
+    -webkit-transform: scale(5.8);
+    -ms-transform: scale(1.8);
+    transform: scale(0.8);
+
+    background: #be8cff;
   }
   
   @media (max-width: 800px) {

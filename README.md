@@ -27,7 +27,7 @@ Uma aplicação baseada na Netflix. A Tutubashow é uma plataforma de streaming 
 
 1. Clonar o repositório:
 ```
-https://github.com/strawndri/tutubashow.git
+git clone https://github.com/strawndri/tutubashow.git
 ```
 
 2. Entrar no repositório:

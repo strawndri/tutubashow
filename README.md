@@ -27,7 +27,7 @@ Uma aplicação baseada na Netflix. A Tutubashow é uma plataforma de streaming 
 
 1. Clonar o repositório:
 ```
-git clone https://github.com/strawndri/tutubashow.git
+git clone https://github.com/strawndri/tutubashow
 ```
 
 2. Entrar no repositório:
@@ -44,6 +44,9 @@ npm install
 ```
 npm start
 ```
+
+Caso queira visualizar o projeto, acesse o link abaixo:
+- [Tutubashow](https://tutubashow.vercel.app/)
 
 ## Tecnologias
 - [x] [React JS](https://reactjs.org/)

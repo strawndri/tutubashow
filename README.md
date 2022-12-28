@@ -1,68 +1,60 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center"> Tutubashow - Imersão React 2020 </h1>
 
-## Available Scripts
+<p align="center">
+  <img src="https://i.imgur.com/ywITwhg.png" alt='Banner. Imagem com fundo cor-de-rosa com uma borda cinza escuro em seu entorno. Ao centro, há um retângulo cinza escuro com o texto: "Alura: Imersão React 2020". Ao lado esquerdo desse retângulo, um desenho de capacete de mergulhador cinza com o ícone da biblioteca React em azul; abaixo do capacete, encontra-se o texto "Imersão React". Ao lado direito do retângulo, há o ícone da biblioteca React, que é um círculo preto com três elipses pretas. Abaixo do retângulo cinza, há um retângulo menor cor-de-rosa, nele está escrito "Tutubashow".' />
+</p>
 
-In the project directory, you can run:
+<p align="center">
+    <img src='https://img.shields.io/badge/Status-Finalizado-abf285?style=for-the-badge&logo=appveyor' alt='Badge. Retângulo dividido em duas partes: no lado esquerdo, o retângulo possui a cor cinza, um círculo azul com vazados e o texto "STATUS"; no lado direito, o retângulo é verde e contém o texto "Finalizado".'>
+</p>
 
-### `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Sumário 
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+:small_blue_diamond: [Sobre o projeto](#sobre-o-projeto)
 
-### `npm test`
+:small_blue_diamond: [Como executar e visualizar](#como-executar-e-visualizar)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+:small_blue_diamond: [Tecnologias](#tecnologias)
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Sobre o projeto 
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Uma aplicação baseada na Netflix. A Tutubashow é uma plataforma de streaming desenvolvida ao longo da Imersão React da Alura em 2020. O objetivo do projeto foi conhecer um pouco sobre essa biblioteca Javascript. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Como executar e visualizar
 
-### `npm run eject`
+1. Clonar o repositório:
+```
+https://github.com/strawndri/tutubashow.git
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+2. Entrar no repositório:
+```
+cd tutubashow
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3. Instalar dependências:
+```
+npm install
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+4. Executar:
+```
+npm start
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Tecnologias
+- [x] [React JS](https://reactjs.org/)
+- [x] [Json server](https://www.npmjs.com/package/json-server)
+- [x] [React Router Dom](https://github.com/remix-run/react-router/tree/main/packages/react-router-dom)
+- [x] [Styled Components](https://styled-components.com/)
+- [x] [Concurrently](https://www.npmjs.com/package/concurrently)
+- [x] [Prop-types](https://www.npmjs.com/package/prop-types)
+- [x] [React-slick](https://www.npmjs.com/package/react-slick)
 
-## Learn More
+## Desenvolvedora
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+| [<img src="https://avatars.githubusercontent.com/u/62841828?v=4" width=115><br><sub>Andrieli Luci Gonçalves</sub>](https://github.com/strawndri) |
+| :---: |
